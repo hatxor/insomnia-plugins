@@ -1,0 +1,13 @@
+{
+  "name": "insomna-plugin-random-integer",
+  "version": "1.0.0",
+  "main": "plugin.js",
+
+  "insomnia": {                    
+    "name": "random-integer",
+    "description": "..."
+  },
+  
+  "dependencies": [],
+  "devDependencies": []
+}

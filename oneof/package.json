@@ -1,0 +1,13 @@
+{
+  "name": "insomna-plugin-oneof",
+  "version": "1.0.0",
+  "main": "plugin.js",
+
+  "insomnia": {                    
+    "name": "oneof",
+    "description": "Returns one of the given values"
+  },
+  
+  "dependencies": [],
+  "devDependencies": []
+}
